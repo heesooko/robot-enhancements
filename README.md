@@ -1,5 +1,4 @@
 Mock Assessment Test: iRobot
-====================
 
 ## Introduction
 
